@@ -1,0 +1,19 @@
+{
+    "name": "cli-test-task/parser",
+    "description": "CLI application-parser of a site for a given url",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandr Seleznyov",
+            "email": "seleznyov_ae@ukr.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CliTestTask\\Parser\\" : "src/"
+        }
+    }
+}
