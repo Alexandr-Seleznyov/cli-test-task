@@ -8,7 +8,7 @@ composer require "cli-test-task/parser @dev"
 ## Usage
 Перейти в папку
 ```bash
-cli-test-task\parser\src
+parser\src
 ```
 Команды:
 
